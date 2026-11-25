@@ -198,9 +198,3 @@ Source & issue tracker: <https://github.com/RithiMangal/supreme-compressor>
 Email: rithimangal@example.com (replace with actual)
 
 ---
-
-## Screenshot
-
-![Supreme Compressor UI](https://github.com/RithiMangal/supreme-compressor/raw/assets/supreme-screenshot.png)
-
-*(Add a screenshot once captured; the UI is a borderless dark-neon window with custom min/max/close buttons, a glowing red title "Supreme Compressor", green subtitle "Standalone Extractor / Compressor", metallic gradient toolbar, format dropdown, per-file progress bars at bottom-left, and a 7z archive table with progress. The Contact button glows in the top-right corner.)*
